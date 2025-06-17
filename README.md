@@ -19,7 +19,7 @@ O projeto demonstra técnicas de desenvolvimento mobile com foco em UI/UX, compo
 
 Algumas imagens tiradas da inferface gráfica:<div align="center">
   <!-- Primeira linha -->
-  <div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap; margin-bottom: 20px;">
+  <div style="display: flex; flex-direction: row,  justify-content: center; align-content: center; gap: 40px; flex-wrap: wrap; margin-bottom: 20px;">
     <div style="text-align: center;">
       <img src="./preview/IMG-20250615-WA0023.jpg" alt="Tela inicial" width="200px" />
       <p>Tela inicial</p>
@@ -31,7 +31,7 @@ Algumas imagens tiradas da inferface gráfica:<div align="center">
   </div>
 
   <!-- Segunda linha -->
-  <div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
+  <div style="display: flex; flex-direction: row,  justify-content: center; align-content: center; gap: 40px; flex-wrap: wrap; margin-bottom: 20px;">
     <div style="text-align: center;">
       <img src="./preview/IMG-20250615-WA0025.jpg" alt="Tela publicidade" width="200px" />
       <p>Publicidade</p>
