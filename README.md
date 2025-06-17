@@ -18,27 +18,29 @@ Clone da interface do aplicativo Nubank desenvolvido com React Native. O projeto
 O projeto demonstra técnicas de desenvolvimento mobile com foco em UI/UX, componentes reutilizáveis e gestão de estado básica.
 
 Algumas imagens tiradas da inferface gráfica:
+<p style="text-align: center;">
+  <span style="display: inline-block; margin: 10px; text-align: center;">
+    <img src="./preview/IMG-20250615-WA0023.jpg" alt="Tela inicial" width="200px" />
+    <br />
+    Tela inicial
+  </span>
+  <span style="display: inline-block; margin: 10px; text-align: center;">
+    <img src="./preview/IMG-20250615-WA0024.jpg" alt="Tela investimentos" width="200px" />
+    <br />
+    Investimentos
+  </span>
+  <span style="display: inline-block; margin: 10px; text-align: center;">
+    <img src="./preview/IMG-20250615-WA0025.jpg" alt="Tela publicidade" width="200px" />
+    <br />
+    Publicidade
+  </span>
+  <span style="display: inline-block; margin: 10px; text-align: center;">
+    <img src="./preview/IMG-20250615-WA0022.jpg" alt="Tela ajuda" width="200px" />
+    <br />
+    Tela de ajuda
+  </span>
+</p>
 
-<div align="center">
-  <div style="text-align: center;">
-    <div style="display: inline-block; margin: 10px;">
-      <img src="./preview/IMG-20250615-WA0023.jpg" alt="Tela inicial" width="200px" />
-      <p>Tela inicial</p>
-    </div>
-    <div style="display: inline-block; margin: 10px;">
-      <img src="./preview/IMG-20250615-WA0024.jpg" alt="Tela investimentos" width="200px" />
-      <p>Investimentos</p>
-    </div>
-    <div style="display: inline-block; margin: 10px;">
-      <img src="./preview/IMG-20250615-WA0025.jpg" alt="Tela publicidade" width="200px" />
-      <p>Publicidade</p>
-    </div>
-    <div style="display: inline-block; margin: 10px;">
-      <img src="./preview/IMG-20250615-WA0022.jpg" alt="Tela ajuda" width="200px" />
-      <p>Tela de ajuda</p>
-    </div>
-  </div>
-</div>
 
 
 
