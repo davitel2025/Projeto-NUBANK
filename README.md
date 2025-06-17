@@ -19,8 +19,8 @@ O projeto demonstra técnicas de desenvolvimento mobile com foco em UI/UX, compo
 
 Algumas imagens tiradas da inferface gráfica:
 
-![Tela inicial](./preview/IMG-20250615-WA0023.jpg)
-![Tela investimentos](./preview/IMG-20250615-WA0024.jpg)
-![Tela publicidade](./preview/IMG-20250615-WA0025.jpg)
+![Tela inicial](./preview/IMG-20250615-WA0023.jpg)    ![Tela investimentos](./preview/IMG-20250615-WA0024.jpg)  ![Tela publicidade](./preview/IMG-20250615-WA0025.jpg )
+
+
 ![Tela ajuda](./preview/IMG-20250615-WA0022.jpg)
 
