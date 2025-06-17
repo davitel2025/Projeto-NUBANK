@@ -17,29 +17,30 @@ Clone da interface do aplicativo Nubank desenvolvido com React Native. O projeto
         
 O projeto demonstra técnicas de desenvolvimento mobile com foco em UI/UX, componentes reutilizáveis e gestão de estado básica.
 
-Algumas imagens tiradas da inferface gráfica:
-
-<div align="center">
-  <div style="display: inline-block; margin: 10px; text-align: center;">
-    <img src="./preview/IMG-20250615-WA0023.jpg" alt="Tela inicial" width="200px" />
-    <p>Tela inicial</p>
+Algumas imagens tiradas da inferface gráfica:<div align="center">
+  <!-- Primeira linha -->
+  <div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap; margin-bottom: 20px;">
+    <div style="text-align: center;">
+      <img src="./preview/IMG-20250615-WA0023.jpg" alt="Tela inicial" width="200px" />
+      <p>Tela inicial</p>
+    </div>
+    <div style="text-align: center;">
+      <img src="./preview/IMG-20250615-WA0024.jpg" alt="Tela investimentos" width="200px" />
+      <p>Investimentos</p>
+    </div>
   </div>
 
-  <div style="display: inline-block; margin: 10px; text-align: center;">
-    <img src="./preview/IMG-20250615-WA0024.jpg" alt="Tela investimentos" width="200px" />
-    <p>Investimentos</p>
-  </div>
-
-  <div style="display: inline-block; margin: 10px; text-align: center;">
-    <img src="./preview/IMG-20250615-WA0025.jpg" alt="Tela publicidade" width="200px" />
-    <p>Publicidade</p>
+  <!-- Segunda linha -->
+  <div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
+    <div style="text-align: center;">
+      <img src="./preview/IMG-20250615-WA0025.jpg" alt="Tela publicidade" width="200px" />
+      <p>Publicidade</p>
+    </div>
+    <div style="text-align: center;">
+      <img src="./preview/IMG-20250615-WA0022.jpg" alt="Tela ajuda" width="200px" />
+      <p>Tela de ajuda</p>
+    </div>
   </div>
 </div>
 
-<div align="center" style="margin-top: 20px;">
-  <div style="display: inline-block; text-align: center;">
-    <img src="./preview/IMG-20250615-WA0022.jpg" alt="Tela ajuda" width="250px" />
-    <p>Tela de ajuda</p>
-  </div>
-</div>
 
