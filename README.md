@@ -19,12 +19,27 @@ O projeto demonstra técnicas de desenvolvimento mobile com foco em UI/UX, compo
 
 Algumas imagens tiradas da inferface gráfica:
 
-<p align="center">
-  <img src="./preview/IMG-20250615-WA0023.jpg" alt="Tela inicial" width="30%" style="margin: 5px;" />
-  <img src="./preview/IMG-20250615-WA0024.jpg" alt="Tela investimentos" width="30%" style="margin: 5px;" />
-  <img src="./preview/IMG-20250615-WA0025.jpg" alt="Tela publicidade" width="30%" style="margin: 5px;" />
-    
-</p>
-<p align="center">
-  <img src="./preview/IMG-20250615-WA0022.jpg" alt="Tela ajuda" width="40%" style="margin: 10px;" />
-</p>
+<div align="center">
+  <div style="display: inline-block; margin: 10px; text-align: center;">
+    <img src="./preview/IMG-20250615-WA0023.jpg" alt="Tela inicial" width="200px" />
+    <p>Tela inicial</p>
+  </div>
+
+  <div style="display: inline-block; margin: 10px; text-align: center;">
+    <img src="./preview/IMG-20250615-WA0024.jpg" alt="Tela investimentos" width="200px" />
+    <p>Investimentos</p>
+  </div>
+
+  <div style="display: inline-block; margin: 10px; text-align: center;">
+    <img src="./preview/IMG-20250615-WA0025.jpg" alt="Tela publicidade" width="200px" />
+    <p>Publicidade</p>
+  </div>
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <div style="display: inline-block; text-align: center;">
+    <img src="./preview/IMG-20250615-WA0022.jpg" alt="Tela ajuda" width="250px" />
+    <p>Tela de ajuda</p>
+  </div>
+</div>
+
