@@ -18,10 +18,10 @@ Tecnologias utilizadas:
 O projeto demonstra técnicas de desenvolvimento mobile com foco em UI/UX, componentes reutilizáveis e gestão de estado básica.
 
 Algumas imagens tiradas da inferface gráfica:
-<p align="center" gap:20px>
-  <img src="./preview/IMG-20250615-WA0023.jpg" width="200" alt="Tela inicial" />
-  <img src="./preview/IMG-20250615-WA0024.jpg" width="200" alt="Tela investimentos" />
-  <img src="./preview/IMG-20250615-WA0025.jpg" width="200" alt="Tela publicidade" />
+<p align="center">
+  <img src="./preview/IMG-20250615-WA0023.jpg" width="200" alt="Tela inicial" />&nbsp;&nbsp;&nbsp;
+  <img src="./preview/IMG-20250615-WA0024.jpg" width="200" alt="Tela investimentos" />&nbsp;&nbsp;&nbsp;
+  <img src="./preview/IMG-20250615-WA0025.jpg" width="200" alt="Tela publicidade" />&nbsp;&nbsp;&nbsp;
   <img src="./preview/IMG-20250615-WA0022.jpg" width="200" alt="Tela ajuda" />
 </p>
 
