@@ -30,6 +30,8 @@ Algumas imagens tiradas da inferface gráfica:
   <img src="./preview/IMG-20250615-WA0022.jpg" width="200" alt="Tela ajuda" />
 </p>
 
+Desenvolvido com ❤️ por Davi Teles de Moraes - Contribuições são bem-vindas!
+
 
 
 
